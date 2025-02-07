@@ -19,8 +19,8 @@ Requirements
 Endpoints
 1. GET /api/articles/
 2. POST /api/articles/
-3. GET /api/articles/<id>/ 
-4. PUT/PATCH /api/articles/<id>/
-5. DELETE /api/articles/<id>/
-6. GET /api/articles/<id>/summary/
+3. GET /api/articles/{{id}}/ 
+4. PUT/PATCH /api/articles/{{id}}/
+5. DELETE /api/articles/{{id}}/
+6. GET /api/articles/{{id}}/summary/
 
